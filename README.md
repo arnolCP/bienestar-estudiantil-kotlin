@@ -4,9 +4,9 @@ Programa de consola desarrollado en **Kotlin** como parte de la práctica de fun
 
 ## Descripción
 El programa permite al usuario:
-- 📝 Registrar estudiantes (nombre, edad y nivel de estrés).
-- 👀 Ver todos los estudiantes registrados.
-- 📊 Ver un resumen final y salir.
+- Registrar estudiantes (nombre, edad y nivel de estrés).
+- Ver todos los estudiantes registrados.
+- Ver un resumen final y salir.
 
 El menú se repite hasta que el usuario elige la opción de salir.
 
@@ -17,6 +17,6 @@ El menú se repite hasta que el usuario elige la opción de salir.
 4. **Estructuras de control:** `while`, `when`, `if / else` y `for`.
 5. **Interpolación de cadenas:** `$variable` dentro de `println()`.
 
-## 👤 Autor
+## Autor
 - Estudiante: Arnol Condori Pari
 - Carrera: Ingeniería de Sistemas
